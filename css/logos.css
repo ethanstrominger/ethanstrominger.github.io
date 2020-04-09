@@ -4,7 +4,8 @@
 #sponsors {
     padding: 20px 0;
   }
-  
+
+
   #sponsors .sponsors-wrap {
     margin-bottom: 20px;
   }
@@ -31,7 +32,7 @@
   
   
   #sponsors .details {
-    background: #fff;
+    /* background: #fff; */
     color: #0e1b4d;
     font-size: 17px;
     font-weight: 600;
